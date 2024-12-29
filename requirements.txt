@@ -1,0 +1,17 @@
+causal_conv1d==1.1.1
+einops==0.8.0
+imageio==2.34.1
+mamba_ssm==1.2.0.post1
+mat73==0.63
+matplotlib==3.8.2
+numpy==2.2.1
+pandas==2.2.3
+Pillow==11.0.0
+PyYAML==6.0.2
+scikit_learn==1.3.2
+scipy==1.14.1
+spectral==0.23.1
+tensorboardX==2.6.2.2
+timm==0.4.12
+torch==2.1.1+cu118
+tqdm==4.65.2
