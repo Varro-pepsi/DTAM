@@ -24,3 +24,17 @@ datasets
   └── paviaC_7gt.mat
 
 ```
+
+# Requirements：
+```
+torch==2.1.1+cu118
+python==3.10.14
+numpy==2.2.1
+causal_conv1d==1.1.1
+mamba_ssm==1.2.0.post1
+timm==0.4.12
+scipy==1.14.1
+pandas==2.2.3
+pandas==2.2.3
+```
+
