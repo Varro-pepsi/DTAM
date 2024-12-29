@@ -57,7 +57,7 @@ pandas==2.2.3
 ## Usage：
 
 ### Train:
-Step one: set the "rask" variable to houston, pavia or hyrank in the file "HSI_train.py".
+Step one: set the "rask" variable to houston, pavia or hyrank in the file "HSI_train.py".  
 Step two:
 ```
 python HSI_train.py
