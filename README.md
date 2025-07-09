@@ -64,7 +64,7 @@ python HSI_train.py
 ```
 ### Test:
 ```
-Tset:
+Test:
 python HSI_test.py --test_pkl Optimal model path obtained after training
 ```
 
